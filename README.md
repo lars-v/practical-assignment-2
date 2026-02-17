@@ -31,9 +31,3 @@ Here are five things you can act on right away:
 4. **Stick to clean titles.** If you do take in a salvage or rebuilt title vehicle, know that the market will heavily discount it — price your purchase accordingly.
 
 5. **Pay attention to the brand.** Toyota, Ram, and GMC hold their value better than most. Economy brands lose value faster.
-
-## Files in This Project
-
-- **This file (README.md)** — The summary you're reading now
-- **[prompt_II.ipynb](prompt_II.ipynb)** — The full analysis with charts and data
-- **data/vehicles.csv** — The dataset of 426,000+ used car listings we analyzed
