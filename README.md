@@ -4,8 +4,6 @@
 
 We looked at data from over 426,000 used car listings to answer one question: **what makes a used car worth more or less?** The goal is to give you, as a dealer, a clear picture of what your customers are willing to pay more for — so you can stock smarter and price better.
 
-The detailed analysis is in the notebook: [`prompt_II.ipynb`](prompt_II.ipynb)
-
 ## What We Found
 
 After crunching the numbers, here are the biggest factors that drive what a used car sells for, ranked from most to least important:
